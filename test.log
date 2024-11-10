@@ -1,0 +1,350 @@
+נוב׳ 05, 2024 1:16:07 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 05, 2024 1:16:18 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 05, 2024 1:16:18 אחה״צ Extentions.Extension WriteToLog
+INFO: Test 'testScreenshot()' was successful.
+נוב׳ 05, 2024 3:08:15 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 05, 2024 3:08:51 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 05, 2024 3:08:51 אחה״צ Extentions.Extension WriteToLog
+INFO: Test 'testFindElementWithRetries()' failed. Reason: Unable to locate element after 3 attempts.
+נוב׳ 05, 2024 3:11:50 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 05, 2024 3:11:50 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 05, 2024 3:11:50 אחה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLogin()' was successful.
+נוב׳ 06, 2024 8:33:42 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 8:33:42 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 8:33:42 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+נוב׳ 06, 2024 8:35:36 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 8:35:37 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 8:35:37 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+נוב׳ 06, 2024 8:36:18 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 8:36:18 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 8:36:18 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+נוב׳ 06, 2024 8:37:06 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 8:37:07 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 8:37:07 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+נוב׳ 06, 2024 8:38:28 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 8:38:28 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 8:38:28 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+נוב׳ 06, 2024 8:38:48 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 8:38:48 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 8:38:48 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+נוב׳ 06, 2024 8:40:08 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 8:40:14 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 8:40:14 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+נוב׳ 06, 2024 8:40:55 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 8:40:59 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 8:40:59 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+נוב׳ 06, 2024 9:18:11 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 9:18:14 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 9:18:14 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "this.driver" is null
+נוב׳ 06, 2024 9:40:30 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 9:40:35 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 9:40:35 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: element not interactable
+  (Session info: chrome=130.0.6723.116)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7ABJ5PS', ip: '192.168.17.69', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.116, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57187}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 98d9e9c166e4d5ebde292b49ae64815f
+נוב׳ 06, 2024 10:58:54 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 10:58:59 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 10:58:59 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: element not interactable
+  (Session info: chrome=130.0.6723.116)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7ABJ5PS', ip: '192.168.17.69', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.116, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60149}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e34ca21412f324beed58003bbd5544c6
+נוב׳ 06, 2024 11:33:57 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 11:34:06 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 11:34:06 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: element not interactable
+  (Session info: chrome=130.0.6723.116)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7ABJ5PS', ip: '192.168.17.69', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.116, chrome: {chromedriverVersion: 130.0.6723.93 (dbcf0550c05e..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61662}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 875fc6433e649027cb333687e439584d
+נוב׳ 06, 2024 11:36:12 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 11:36:16 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 11:36:16 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: no such element: Unable to locate element: {"method":"css selector","selector":"#emailDesרררktopHeb"}
+  (Session info: chrome=130.0.6723.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7ABJ5PS', ip: '192.168.17.69', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.116, chrome: {chromedriverVersion: 130.0.6723.93 (dbcf0550c05e..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61809}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15b38974475b361f7eff97b6985b5f18
+*** Element info: {Using=id, value=emailDesרררktopHeb}
+נוב׳ 06, 2024 11:41:25 לפנה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 11:41:30 לפנה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 11:41:30 לפנה״צ Extentions.Extension WriteToLog
+INFO: Test 'testLoginForm()' failed. Reason: expected: <1> but was: <2>
+נוב׳ 06, 2024 1:48:23 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 1:48:24 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 1:48:24 אחה״צ Extentions.Extension WriteToLog
+INFO: Test '[1] CHROME' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+נוב׳ 06, 2024 1:48:24 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 1:48:24 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 1:48:24 אחה״צ Extentions.Extension WriteToLog
+INFO: Test '[2] FIREFOX' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+נוב׳ 06, 2024 1:48:24 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 1:48:24 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 1:48:24 אחה״צ Extentions.Extension WriteToLog
+INFO: Test '[3] EDGE' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+נוב׳ 06, 2024 1:49:38 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 1:49:38 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 1:49:38 אחה״צ Extentions.Extension WriteToLog
+INFO: Test '[1] CHROME' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+נוב׳ 06, 2024 1:49:39 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 1:49:39 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 1:49:39 אחה״צ Extentions.Extension WriteToLog
+INFO: Test '[2] FIREFOX' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+נוב׳ 06, 2024 1:49:39 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 1:49:39 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 1:49:39 אחה״צ Extentions.Extension WriteToLog
+INFO: Test '[3] EDGE' failed. Reason: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+נוב׳ 06, 2024 1:50:00 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 1:50:05 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 1:50:05 אחה״צ Extentions.Extension WriteToLog
+INFO: Test '[1] CHROME' was successful.
+נוב׳ 06, 2024 1:50:05 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 1:50:07 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 1:50:07 אחה״צ Extentions.Extension WriteToLog
+INFO: Test '[2] FIREFOX' failed. Reason: Process unexpectedly closed with status 0
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7ABJ5PS', ip: '192.168.17.69', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: AbstractBrowserDriver
+remote stacktrace: 
+נוב׳ 06, 2024 1:50:07 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 1:50:13 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 1:50:13 אחה״צ Extentions.Extension WriteToLog
+INFO: Test '[3] EDGE' was successful.
+נוב׳ 06, 2024 2:26:23 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 2:26:47 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 2:26:47 אחה״צ Extentions.Extension WriteToLog
+INFO: Test 'testScreenshot()' was successful.
+נוב׳ 06, 2024 2:27:13 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 2:27:38 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 2:27:38 אחה״צ Extentions.Extension WriteToLog
+INFO: Test 'testScreenshot()' failed. Reason: expected: <Gooכgle Translate> but was: <Google Translate>
+נוב׳ 06, 2024 2:45:58 אחה״צ Extentions.Extension WriteToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 2:46:06 אחה״צ Extentions.Extension WriteToLog
+INFO: AfterEach
+נוב׳ 06, 2024 2:46:06 אחה״צ Extentions.Extension WriteToLog
+INFO: Test 'testScreenshot()' was successful.
+נוב׳ 06, 2024 3:34:20 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 3:34:21 אחה״צ Extentions.Extension writeToLog
+INFO: Running testExample
+נוב׳ 06, 2024 3:34:21 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 06, 2024 3:34:21 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testBrowser1()' was successful.
+נוב׳ 06, 2024 3:34:53 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 3:34:55 אחה״צ Extentions.Extension writeToLog
+INFO: Running testExample
+נוב׳ 06, 2024 3:34:55 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 06, 2024 3:34:55 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testBrowser1()' was successful.
+נוב׳ 06, 2024 3:35:36 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 3:35:36 אחה״צ Extentions.Extension writeToLog
+INFO: Running testExample
+נוב׳ 06, 2024 3:35:36 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 06, 2024 3:35:36 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testBrowser1()' was successful.
+נוב׳ 06, 2024 3:41:45 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 06, 2024 3:41:45 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 06, 2024 3:41:45 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testScreenshot()' failed. Reason: Unable to load configuration file
+נוב׳ 10, 2024 12:02:27 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:02:33 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:02:33 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testScreenshot()' was successful.
+נוב׳ 10, 2024 12:04:42 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:04:47 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:04:47 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testScreenshot()' was successful.
+נוב׳ 10, 2024 12:07:56 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:08:02 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:08:02 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testScreenshot()' failed. Reason: expected: <Google Translatffe> but was: <Google Translate>
+נוב׳ 10, 2024 12:09:01 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:09:07 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:09:07 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testScreenshot()' was successful.
+נוב׳ 10, 2024 12:10:02 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:10:33 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:10:33 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testFindElementWithRetries()' failed. Reason: Unable to locate element after 3 attempts.
+נוב׳ 10, 2024 12:15:03 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:15:06 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:15:06 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testLoginForm()' failed. Reason: expected: <1> but was: <2>
+נוב׳ 10, 2024 12:15:35 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:15:38 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:15:38 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testLoginForm()' failed. Reason: element not interactable
+  (Session info: chrome=130.0.6723.116)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7ABJ5PS', ip: '192.168.17.69', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.116, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54016}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: af23ec903cb9cbdb1ef53f124a212fb0
+נוב׳ 10, 2024 12:16:22 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:16:55 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:16:55 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testFindElementWithRetries()' failed. Reason: Unable to locate element after 3 attempts.
+נוב׳ 10, 2024 12:17:16 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:17:49 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:17:49 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testFindElementWithRetries()' failed. Reason: Unable to locate element after 3 attempts.
+נוב׳ 10, 2024 12:19:58 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:20:30 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:20:30 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testFindElementWithRetries()' failed. Reason: Unable to locate element after 3 attempts.
+נוב׳ 10, 2024 12:24:39 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:24:42 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:24:42 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testLoginForm()' failed. Reason: Unsupported locator type: cssSelector
+נוב׳ 10, 2024 12:27:48 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:27:51 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:27:51 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testLoginForm()' failed. Reason: no such element: Unable to locate element: {"method":"css selector","selector":".\.form\-group\.no\-margin\.mt\-4\.d\-grid\.gap\-1"}
+  (Session info: chrome=130.0.6723.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7ABJ5PS', ip: '192.168.17.69', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.116, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54865}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0fdc5e552bc69cd7016f9e92752fb6fe
+*** Element info: {Using=class name, value=.form-group.no-margin.mt-4.d-grid.gap-1}
+נוב׳ 10, 2024 12:28:56 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 12:28:59 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 12:28:59 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testLoginForm()' failed. Reason: Unsupported locator type: cssSelector
+נוב׳ 10, 2024 1:13:05 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 1:13:09 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 1:13:09 אחה״צ Extentions.Extension writeToLog
+INFO: Test 'testLoginForm()' failed. Reason: Unsupported locator type: cssSelector
+נוב׳ 10, 2024 2:03:23 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 2:03:27 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 2:03:27 אחה״צ Extentions.Extension writeToLog
+INFO: Test '[1] CHROME' was successful.
+נוב׳ 10, 2024 2:03:27 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 2:03:34 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 2:03:34 אחה״צ Extentions.Extension writeToLog
+INFO: Test '[2] FIREFOX' was successful.
+נוב׳ 10, 2024 2:03:35 אחה״צ Extentions.Extension writeToLog
+INFO: BeforeEach
+נוב׳ 10, 2024 2:03:54 אחה״צ Extentions.Extension writeToLog
+INFO: AfterEach
+נוב׳ 10, 2024 2:03:54 אחה״צ Extentions.Extension writeToLog
+INFO: Test '[3] EDGE' was successful.
