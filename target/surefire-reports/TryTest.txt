@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: TryTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 17.022 s <<< FAILURE! - in TryTest
+TryTest.testScreenshot  Time elapsed: 5.079 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Example NoDomain> but was: <Example Domain>
+	at TryTest.testScreenshot(TryTest.java:82)
+
+TryTest.testBrowser(BrowserType)[2]  Time elapsed: 1.93 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Process unexpectedly closed with status 0
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7ABJ5PS', ip: '10.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: driver.version: AbstractBrowserDriver
+remote stacktrace: 
+	at TryTest.testBrowser(TryTest.java:60)
+
